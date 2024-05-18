@@ -1,3 +1,10 @@
+### План макетов страниц для Верстальщиков:
+![login.html](верстка/макет login-html.png)
+![signup.html](верстка/макет sign-up-html.png)
+![control-board.html](верстка/макет control-board-html.png)
+![change-password.html](верстка/макет change-password-html.png)
+![delete-user.html](верстка/макет delete-user-html.png)
+
 ### План HTTP-запросов для JavaScript-разработчиков
 
 #### 1. Вход (Login)
