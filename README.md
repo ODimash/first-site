@@ -1,9 +1,14 @@
 ### План макетов страниц для Верстальщиков:
-![login.html](https://github.com/ODimash/first-site/blob/main/%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%20change-password-html.png?raw=true)
-![signup.html](верстка/макет sign-up-html.png)
-![control-board.html](верстка/макет control-board-html.png)
-![change-password.html](верстка/макет change-password-html.png)
-![delete-user.html](верстка/макет delete-user-html.png)
+**login.html:**
+![login.html](https://github.com/ODimash/first-site/blob/main/%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%20login-html.png?raw=true)
+**signup.html:**
+![signup.html](https://github.com/ODimash/first-site/blob/main/%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%20sign-up-html.png?raw=true)
+**control-board.html:**
+![control-board.html](https://github.com/ODimash/first-site/blob/main/%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%20control-board-html.png?raw=true)
+**change-password.html:**
+![change-password.html](https://github.com/ODimash/first-site/blob/main/%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%20change-password-html.png?raw=true)
+**delete-user.html:**
+![delete-user.html](https://github.com/ODimash/first-site/blob/main/%D0%B2%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%20delete-user-html.png?raw=true)
 
 ### План HTTP-запросов для JavaScript-разработчиков
 
